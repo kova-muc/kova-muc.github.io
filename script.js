@@ -106,7 +106,7 @@ const translations = {
     t_together: "Take Me With You",
     t_night: "Night",
     t_breakup: "Breakup Song",
-    t_oursummer: "OUR SUMMER"
+    t_oursummer: "Unemployed asshole"
   }
 };
 
