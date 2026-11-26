@@ -76,7 +76,8 @@ const translations = {
     t_together: "Позови меня с собой",
     t_night: "Ночь",
     t_breakup: "Песня про расставание",
-    t_oursummer: "НАШЕ ЛЕТО"
+    t_oursummer: "НАШЕ ЛЕТО",
+    t_workless: "Безработный мудила"
   },
   en: {
     menu_bio: "Biography",
